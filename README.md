@@ -12,8 +12,11 @@ started immediately. Over 3.5 billion tallied so far, between Jan 20, 2025 and J
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Trump's 13 BIGGEST lies in his first month back in office</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>President Donald Trump moved at a blistering pace since Jan 15th, in his first month back in the White 
+<p>President Donald Trump moved at a blistering pace since Jan 20th, in his first month back in the White 
 House. He lied fast and furious, too.</p>
+
+<p>In addition, he has pardoned rapists, murderers, drug dealers, grifters, and thieves.</p>
+<p>If you have CASH to pay directly to him, you will get a pardon.</p>
 
 <p>In speeches, interviews, exchanges with reporters and posts on social media, the 
 president filled his public statements not only with exaggerations but outright 
