@@ -12,7 +12,7 @@ started immediately. Over 3.5 billion tallied so far, between Jan 20, 2025 and J
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Trump's 13 BIGGEST lies in his first month back in office</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>President Donald Trump moved at a blistering pace in his first month back in the White 
+<p>President Donald Trump moved at a blistering pace since Jan 15th, in his first month back in the White 
 House. He lied fast and furious, too.</p>
 
 <p>In speeches, interviews, exchanges with reporters and posts on social media, the 
