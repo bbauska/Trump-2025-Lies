@@ -1,7 +1,7 @@
 {
   "name": "Trump Lies & Grift 2017-2026",
   "short_name": "Trump Lies", 
-  "start_url": "/trump-lies.bauska.org",
+  "start_url": "index.html",
   "display": "standalone",
   "icons": [
   {
