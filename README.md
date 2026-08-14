@@ -5,8 +5,7 @@
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>A little background<br>
 <p>Donald Trump has made tens of thousands of lies. These have cost human lives.</p>
-<p>Fact-checkers at The Washington Post documented 30,573 false or misleading claims during 
-his first presidential term (2016-2020), an average of 21 per day. The Toronto Star tallied 5,276 
+<p>Fact-checkers at The Washington Post documented <a href="https://www.washingtonpost.com/politics/2021/01/24/trumps-false-or-misleading-claims-total-30573-over-four-years/">30,573 false or misleading claims</a> during his first presidential term (2016-2020), an average of 21 per day. The Toronto Star tallied 5,276 
 false claims from January 2017 to June, 2019 (2 1/2 years)</p>
 
 <p>On January 20, 2025 Trump became president a 2nd time. God save America. Grift? Yes. It 
