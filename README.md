@@ -1,7 +1,7 @@
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h1 id="#trump-2025">Trump 2025 lies</h1>
 <h2>In a word mundacious</h2>
-<h2>Not Commander in Chief but Commander in Queef</h2>
+<h2>Not Commander in Chief but America's 1st Commander in Queef</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>A little background<br>
 <p>Donald Trump has made tens of thousands of lies. These have cost human lives.</p>
