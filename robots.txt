@@ -1,4 +1,4 @@
 User-Agent: *
 Disallow: 2026-jan-=jul.md, drugs.md
 
-Sitemap: https://github.com/bbauska/Trump-Lies
+Sitemap: https://github.com/bbauska/sitemap.xml
